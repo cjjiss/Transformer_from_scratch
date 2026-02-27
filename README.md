@@ -1,1 +1,2 @@
-# Transformer_from_scratch
+library requirements:
+pip install torch torchvision datasets tokenizers tensorboard tqdm numpy
